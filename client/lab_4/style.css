@@ -30,7 +30,7 @@ body {
   font-family: ‘Segoe UI’, Candara, ‘Bitstream Vera Sans’, ‘DejaVu Sans’, ‘Bitsream Vera Sans’, ‘Trebuchet MS’, Verdana, ‘Verdana Ref’, sans-serif;
   font-weight: 400;
   line-height: 1.5;
-  background-color: rgb(212, 206, 206);
+  background-color: rgb(214, 199, 199);
 }
 
 
@@ -92,7 +92,7 @@ form {
   /* this will push other blocks out of the way */
 
   /* colors */
-  background-color: rgba(228, 214, 145, 0.424);
+  background-color: rgba(182, 127, 233, 0.424);
   color: #4a4a4a;
 
   /* shapes */
@@ -152,7 +152,7 @@ form {
 .footer {
   flex-shrink: 0;
   padding: 1rem;
-  background-color: rgba(228, 214, 145, 0.424);
+  background-color: rgba(182, 127, 233, 0.424);
   font-size: 1.2rem;
   font-weight: 600;
 }
@@ -171,7 +171,7 @@ form {
   /* Hue, saturation, luminosity, alpha */
   background-color: hsla(0, 0%, 90%, 0.15);
   /* red, green, blue, alpha */
-  color: rgb(246, 169, 93);
+  color: rgb(207, 136, 65);
   text-decoration: none;
 }
 
